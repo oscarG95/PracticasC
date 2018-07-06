@@ -1,0 +1,2 @@
+# PracticasC
+Lenguaje C
